@@ -1,6 +1,6 @@
-# Discover a captivating world of generative AI art with ArtiSlide
+# Discover a captivating world of generative AI art
 
-Our innovative web app offers a seamless browsing experience, allowing you to effortlessly swipe, save, zoom, and immerse yourself in the latest creations from Midjourney and beyond.
+Our web app offers a seamless browsing experience, allowing you to effortlessly swipe, save, zoom, and immerse yourself in the latest creations from Midjourney and beyond.
 
 Explore mesmerizing visual masterpieces and unlock the potential of AI-driven creativity at your fingertips. 
 
