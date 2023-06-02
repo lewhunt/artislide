@@ -1,4 +1,4 @@
-[![artislide.com](https://github.com/lewhunt/artislide/assets/9886284/7c7aba23-beec-4e8b-9d7f-4702ae7f39dd)](https://artislide.com)
+[![artislide.com](https://raw.githubusercontent.com/lewhunt/artislide/2322562c5584c33cdfe1a3a8629875f224d6153f/artislide-banner.jpg)](https://artislide.com)
 
 ## Discover a captivating world of generative AI art
 
