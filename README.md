@@ -6,13 +6,4 @@ The ArtiSlide app offers a seamless browsing experience across devices, allowing
 
 Explore mesmerizing visual masterpieces and unlock the potential of AI-driven creativity at your fingertips. 
 
-Join us on a journey through the captivating realm of AI art with [ArtiSlide](https://artislide.com) :metal:
-
-## Video Demo
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KkcGr9_W-2Q" target="_blank">
- <img src="http://img.youtube.com/vi/KkcGr9_W-2Q/maxresdefault.jpg" alt="Watch the demo" width="100%" />
-</a>
-
-## Help & Support
-Feedback is welcome, raise questions and bugs in the issues section. Follow on [Twitter](https://twitter.com/artislide) for updates.
+Join us on a journey through the captivating realm of AI art with [ArtiSlide](https://artislide.com)
